@@ -14,10 +14,10 @@ a burst frame by frame, keep the one that works, let the rest go. Identify the
 species, keep a life list, see where you shot it. Nothing leaves your machine
 unless you ask it to.
 
-**[EE Labs](https://github.com/reedos/ee-labs)** — three browser labs for
-learning electrical engineering, [live here](https://reedos.github.io/ee-labs/):
-signals, circuits and control, sharing one transfer-function core. Built on one
-rule: every explanatory sentence in a lesson is a claim about physics, and a
-test has to measure it before the app is allowed to print it. A circuit built in
-one lab hands over to the others exactly — the same object, described in three
+**[EE Labs](https://github.com/reedos/ee-labs)** — the labs I wish I'd had as a
+student, [live here](https://reedos.github.io/ee-labs/): signals, circuits and
+control in the browser, sharing one transfer-function core. Built on one rule:
+every explanatory sentence in a lesson is a claim about physics, and a test has
+to measure it before the app is allowed to print it. A circuit built in one lab
+hands over to the others exactly — the same object, described in three
 vocabularies.
