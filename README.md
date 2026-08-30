@@ -8,7 +8,16 @@ simulating, or sorting, and nothing off the shelf quite fits. What I build tends
 to be local-first and single-purpose: it runs on your own machine and does one
 job properly.
 
-**[Field Catalog](https://github.com/reedos/field-catalog)** is the one
-that is public so far — a culling and cataloguing app for photographers who come
-home with more frames than time. Compare a burst frame by frame, keep the one
-that works, let the rest go. Nothing leaves your machine unless you ask it to.
+**[Field Catalog](https://github.com/reedos/field-catalog)** — culling and
+cataloguing for photographers who come home with more frames than time. Compare
+a burst frame by frame, keep the one that works, let the rest go. Identify the
+species, keep a life list, see where you shot it. Nothing leaves your machine
+unless you ask it to.
+
+**[EE Labs](https://github.com/reedos/ee-labs)** — three browser labs for
+learning electrical engineering, [live here](https://reedos.github.io/ee-labs/):
+signals, circuits and control, sharing one transfer-function core. Built on one
+rule: every explanatory sentence in a lesson is a claim about physics, and a
+test has to measure it before the app is allowed to print it. A circuit built in
+one lab hands over to the others exactly — the same object, described in three
+vocabularies.
