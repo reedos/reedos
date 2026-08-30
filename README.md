@@ -16,8 +16,8 @@ unless you ask it to.
 
 **[EE Labs](https://github.com/reedos/ee-labs)** — modeling tools for learning
 how signals, circuits and control behave,
-[live here](https://reedos.github.io/ee-labs/). Built because the math
-underneath all that behavior — and the way it intertwines — is just cool: an
+[live here](https://reedos.github.io/ee-labs/). Built because I find the math
+underneath all that behavior — and the way it intertwines cool and interesting: an
 RLC network, a digital biquad and a plant in a feedback loop are one object in
 three vocabularies, so a model built in one tool hands over to the others
 exactly. One rule throughout: every explanatory sentence is a claim about
