@@ -14,11 +14,11 @@ a burst frame by frame, keep the one that works, let the rest go. Identify the
 species, keep a life list, see where you shot it. Nothing leaves your machine
 unless you ask it to.
 
-**[EE Labs](https://github.com/reedos/ee-labs)** — signals, circuits and
-control in the browser, [live here](https://reedos.github.io/ee-labs/). Built
-because the math underneath all that behavior — and the way it intertwines —
-is just cool: an RLC network, a digital biquad and a plant in a feedback loop
-are one object in three vocabularies, so a circuit built in one lab hands over
-to the others exactly. One rule throughout: every explanatory sentence is a
-claim about physics, and a test has to measure it before the app is allowed to
-print it.
+**[EE Labs](https://github.com/reedos/ee-labs)** — modeling tools for learning
+how signals, circuits and control behave,
+[live here](https://reedos.github.io/ee-labs/). Built because the math
+underneath all that behavior — and the way it intertwines — is just cool: an
+RLC network, a digital biquad and a plant in a feedback loop are one object in
+three vocabularies, so a model built in one tool hands over to the others
+exactly. One rule throughout: every explanatory sentence is a claim about
+physics, and a test has to measure it before the app is allowed to print it.
