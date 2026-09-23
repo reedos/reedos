@@ -1,54 +1,49 @@
 <img src="fox.jpg" alt="A red fox on a snow-covered ridge" width="100%">
 
-I'm a datacenter hardware engineer specializing in high-speed and RF, and a
-wildlife photographer on weekends. The projects below come from both, and from
-my interest in how AI is used and what it takes to build it.
+I'm a datacenter hardware engineer, mostly high-speed and RF, and I spend a lot
+of weekends photographing wildlife. Lately I've gotten pretty excited about AI
+too, both what it could do and the infrastructure being built for it. Here's
+what I've made public.
 
-**[EE Labs](https://github.com/reedos/ee-labs)**: 153 interactive experiments
-and lessons across four labs, covering circuit laws, filters, DSP and feedback
-control, [live here](https://reedos.github.io/ee-labs/). I built them because I
-love the math behind these systems. Change a parameter and every view updates
-together, with each number showing where it came from. Circuit Lab can hand a
-filter to Signal Lab with the same resonance and Q. Every claim in the notes is
-measured by an automated test, and the site does not deploy unless the tests
-pass.
+**[EE Labs](https://github.com/reedos/ee-labs)** came out of loving the math
+behind circuits, signals and control. There are four interactive labs now, with
+153 experiments and lessons ([live here](https://reedos.github.io/ee-labs/)).
+When you change a parameter, the plots and numbers update together, and each
+number shows where it came from. Circuit Lab can even hand a filter to Signal
+Lab with the same resonance and Q. Automated tests check the explanations, and
+the site won't deploy if one of them fails.
 
-**[RF Lab Reference](https://github.com/reedos/rf_lab_reference)**: eight
-calculators I keep open beside the VNA, built for a phone or tablet,
-[live here](https://reedos.github.io/rf_lab_reference/). They cover power and
-voltage conversion, Smith chart matching with return loss and VSWR, mixed-mode
-S-parameters, IP3 and P1dB, sweep planning, cascaded power and noise, and
-electrical delay. Each one shows the full calculation with your numbers
-substituted. There is no backend server, and each setup is saved in its link
-so you can bookmark or share it.
+**[RF Lab Reference](https://github.com/reedos/rf_lab_reference)** is what I
+keep open on my phone at the VNA. It has eight calculators, for power and
+voltage conversion, Smith chart matching, mixed-mode S-parameters, IP3 and P1dB,
+sweep planning, cascaded noise and electrical delay, and each one shows the math
+with your numbers in it. Nothing runs on a server, and the link saves the whole
+setup. ([Calculators here.](https://reedos.github.io/rf_lab_reference/))
 
-**[Gradient Ascent](https://github.com/reedos/gradient_ascent)**: a guide to
-working with language models,
-[live here](https://reedos.github.io/gradient_ascent/). It organizes 49
-techniques into eight levels by how much the model decides on its own. Every
-page covers how the technique works, what it costs and when something simpler
-will do, with 66 runnable examples behind the pages. The RAG and agentic RAG
-pages carry measured results from real runs on a local 30B-class model; the
-rest are written from primary sources and marked illustrative until they are
-measured.
+**[Gradient Ascent](https://github.com/reedos/gradient_ascent)** is my guide to
+working with language models ([live here](https://reedos.github.io/gradient_ascent/)).
+It covers 49 techniques in eight levels, grouped by how much the model decides
+on its own, and each page explains how the technique works, what it costs and
+when something simpler would do. There are also 66 examples you can run
+yourself. It's still in progress. The RAG and agentic RAG pages have measured
+results from runs on a local 30B-class model, and the other pages are written
+from primary sources for now.
 
-**[Stack Ledger](https://github.com/reedos/stack_ledger)**: a public research
-ledger of what the AI buildout actually delivers across energy, chips,
-infrastructure, models and applications,
-[live here](https://reedos.github.io/stack_ledger/). It separates built capacity
-from announcements and grades every event and observation from A (official
-filings and statistics) to D (unverified claims). The source sets the grade,
-never a model, and unconfirmed reports stay out of the charts. Sources include
-the IEA, DOE, Epoch AI, BLS and the Census Bureau, and the whole ledger
-downloads as CSV or JSON. A model on my own PC researches it daily, and its
-findings are published only after passing validation and an evidence screen.
+I started **[Stack Ledger](https://github.com/reedos/stack_ledger)** because I
+wanted to know what the AI buildout is actually delivering. It tracks energy,
+chips, infrastructure, models and applications, and grades each event and
+observation on its evidence. An A means an official filing or statistic backs it
+up, and a D means it hasn't been verified. Unconfirmed reports don't go on the
+charts. Sources include the IEA, DOE, Epoch AI, BLS and the Census Bureau, and
+the ledger can be downloaded as CSV or JSON. A model on my PC does research for
+it every day, and what it finds goes up only after passing validation and an
+evidence check. ([See the ledger.](https://reedos.github.io/stack_ledger/))
 
-**[Field Catalog](https://github.com/reedos/field-catalog)**: a Windows app for
-culling and cataloging wildlife photos, with an installer on the
-[releases page](https://github.com/reedos/field-catalog/releases). Import a card
-without moving the originals, cull from the keyboard the way you would in
-Lightroom, and compare an entire burst on one screen with pan and zoom synced.
-It can identify species with a local vision model or an API key, and it keeps
-your life list and maps where you shot. Rejecting a photo only marks it;
-deleting files is a separate step behind a dry run. It runs locally, with no
-account, cloud service or telemetry.
+**[Field Catalog](https://github.com/reedos/field-catalog)** is the Windows app
+I cull and catalog my wildlife photos with. You import a card without moving the
+originals, cull with the same keys as Lightroom, and compare a whole burst side
+by side with pan and zoom synced, which makes it easy to see which frame is
+sharp. It can also identify species with a local vision model or an API key,
+keep a life list, and show on a map where you shot. Rejecting a photo only marks
+it. Deleting files is a separate step, with a dry run first. The installer is on
+the [releases page](https://github.com/reedos/field-catalog/releases).
