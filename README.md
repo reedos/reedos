@@ -1,7 +1,7 @@
 <img src="fox.jpg" alt="A red fox on a snow-covered ridge" width="100%">
 
-High-speed and RF hardware engineering during the week. Wildlife photography on
-the weekends.
+High-speed and RF hardware engineering for datacenters during the week. Wildlife
+photography on the weekends.
 
 Both ends of that turn into software eventually — something needs measuring, or
 simulating, or sorting, and nothing off the shelf quite fits. Some projects are
@@ -14,8 +14,9 @@ the main ways of working with a language model,
 eight levels, ordered by how much the model decides for itself, from one chat
 message to agents that run on their own. Each page shows how the technique
 works, what it costs, and when a simpler one is enough, with a runnable example
-behind it. There is also a step-by-step course for starting from zero. It is
-live and still in development: the pages are written from primary sources, and
+behind it. Worked examples start from everyday tasks, and the home page has one
+starting point for someone new to AI and another for someone building with it.
+It is live and still in development: the pages are written from primary sources, and
 measured results from real runs come next.
 
 **[Stack Ledger](https://github.com/reedos/stack_ledger)** — a public research
