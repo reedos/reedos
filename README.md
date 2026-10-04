@@ -3,9 +3,10 @@
 I'm a datacenter hardware engineer, mostly high-speed and RF, and I spend a lot
 of weekends photographing wildlife. Lately I've gotten pretty excited about AI
 too, both what it could do and the infrastructure being built for it. Here's
-what I've made public.
+what I've made public. It's all gathered on my site,
+[reedos.dev](https://reedos.dev/).
 
-**[EE Labs](https://github.com/reedos/ee-labs)** ([live site](https://reedos.github.io/ee-labs/))
+**[EE Labs](https://github.com/reedos/ee-labs)** ([live site](https://reedos.dev/ee-labs/))
 came out of loving the math behind circuits, signals and control. There are four
 interactive labs now, with 153 experiments and lessons. When you change a
 parameter, the plots and numbers update together, and each number shows where it
@@ -13,14 +14,14 @@ came from. Circuit Lab can even hand a filter to Signal Lab with the same
 resonance and Q. Automated tests check the explanations, and the site won't
 deploy if one of them fails.
 
-**[RF Lab Reference](https://github.com/reedos/rf_lab_reference)** ([live site](https://reedos.github.io/rf_lab_reference/))
+**[RF Lab Reference](https://github.com/reedos/rf_lab_reference)** ([live site](https://reedos.dev/rf_lab_reference/))
 is a set of eight calculators for RF bench work, sized for a phone or tablet.
 They cover power and voltage conversion, Smith chart matching, mixed-mode
 S-parameters, IP3 and P1dB, sweep planning, cascaded noise and electrical delay,
 and each one shows the math with your numbers in it. Nothing runs on a server,
 and the link saves the whole setup.
 
-**[Gradient Ascent](https://github.com/reedos/gradient_ascent)** ([live site](https://reedos.github.io/gradient_ascent/))
+**[Gradient Ascent](https://github.com/reedos/gradient_ascent)** ([live site](https://reedos.dev/gradient_ascent/))
 is my guide to working with language models. It covers 49 techniques in eight
 levels, grouped by how much the model decides on its own, and each page explains
 how the technique works, what it costs and when something simpler would do.
@@ -28,7 +29,7 @@ There are also 66 examples you can run yourself. It's still in progress. The RAG
 and agentic RAG pages have measured results from runs on a local 30B-class
 model, and the other pages are written from primary sources for now.
 
-**[Stack Ledger](https://github.com/reedos/stack_ledger)** ([live site](https://reedos.github.io/stack_ledger/))
+**[Stack Ledger](https://github.com/reedos/stack_ledger)** ([live site](https://reedos.dev/stack_ledger/))
 tracks what the AI buildout is actually delivering across energy, chips,
 infrastructure, models and applications. Each event and observation is graded
 on its evidence. An A means an official filing or statistic backs it up, and a D
