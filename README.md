@@ -46,3 +46,13 @@ whole burst side by side with pan and zoom synced, which makes it easy to see
 which frame is sharp. It can also identify species with a local vision model or
 an API key, keep a life list, and show on a map where you shot. Rejecting a
 photo only marks it. Deleting files is a separate step, with a dry run first.
+
+
+**[The Intelligence Factory](https://reedos.dev/intelligence_factory/)**
+follows power, data and heat through an AI campus, from the grid to a GPU die.
+Explore the hardware in 3D, change the campus scenario, and inspect the sources,
+calculations and assumptions behind the numbers.
+
+**[Wildlife photography](https://reedos.dev/wildlife-site/)**
+is my gallery of wildlife encounters, organized by species, places and photo essays,
+with a life list and full-frame photographs.
