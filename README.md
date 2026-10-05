@@ -53,6 +53,14 @@ follows power, data and heat through an AI campus, from the grid to a GPU die.
 Explore the hardware in 3D, change the campus scenario, and inspect the sources,
 calculations and assumptions behind the numbers.
 
+**[Photon to Photo](https://github.com/reedos/photon_to_photo)** ([live site](https://reedos.dev/photon_to_photo/))
+explores a camera and lens in 3D, from light passing through the glass to charge
+in a sensor and a finished photograph. Change the settings and follow the physics.
+
+**[The Guardian Ring](https://github.com/reedos/guardian_ring)** ([live site](https://reedos.dev/guardian_ring/))
+follows infrared satellite architecture from Earth orbit to a detector pixel, with
+sourced civil instruments, schematic hardware, and labeled calculations.
+
 **[Wildlife photography](https://reedos.dev/wildlife-site/)**
 is my gallery of wildlife encounters, organized by species, places and photo essays,
 with a life list and full-frame photographs.
